@@ -170,3 +170,5 @@ data/
 *.npy
 *.pkl
 TinyStories*.txt
+.DS_Store
+**/.DS_Store
